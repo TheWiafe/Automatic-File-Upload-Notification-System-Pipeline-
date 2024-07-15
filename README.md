@@ -13,7 +13,7 @@ The problem/pain this project aims to solve is the need to automate notification
 
 This project therefore provides seamless integration between various AWS services such as Amazon S3, Lambda, SNS, CloudWatch and SQS.
 
-For a detailed step-by-step procedure to host a static website on Amazon S3, kindly click on this [link](https://medium.com/@wiafeemmanuel600/how-to-create-an-automatic-file-upload-notification-system-pipeline-cef4033bfa6c) to view my blog. 
+Ready to take your cloud storage management to the next level? Kindly click on this [link](https://medium.com/@wiafeemmanuel600/how-to-create-an-automatic-file-upload-notification-system-pipeline-cef4033bfa6c) to view the full project details in my blog.  
 
 ## Contributing
 Users can contribute to the project by reporting issues, submitting bug fixes, or adding new features. To contribute:
